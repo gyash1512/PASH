@@ -1,0 +1,5 @@
+
+# PASH local configuration
+.pash/
+.pash_reviews/
+.pash_config
